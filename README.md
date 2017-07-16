@@ -8,4 +8,5 @@ A simple document to keep track of pages showcasing beautiful Google Webfonts pa
 - https://www.atilus.com/google-font-pairings-font-matches-made-in-heaven/
 - https://typ.io/libraries/google
 - https://typechem.herokuapp.com/
+- https://www.reliablepsd.com/ultimate-google-font-pairings/
 
